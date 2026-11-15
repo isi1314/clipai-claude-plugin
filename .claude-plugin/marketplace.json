@@ -1,0 +1,12 @@
+{
+  "name": "clipai",
+  "description": "ClipAI for Claude: long videos to short clips",
+  "owner": { "name": "ClipAI", "email": "hello@clipai.online" },
+  "plugins": [
+    {
+      "name": "clipai",
+      "source": "./",
+      "description": "Review AI-detected clips, render captioned 9:16 shorts and schedule them, from Claude."
+    }
+  ]
+}
