@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clipai": {
+      "type": "http",
+      "url": "https://clipai.online/api/mcp"
+    }
+  }
+}
