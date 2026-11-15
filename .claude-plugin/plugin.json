@@ -1,0 +1,24 @@
+{
+  "name": "clipai",
+  "displayName": "ClipAI",
+  "version": "1.0.0",
+  "description": "Turn long videos into short vertical clips: see the AI-detected clips with their scores, learn why a public short works, find your own version of it in your video, render a captioned 9:16 clip, and schedule it to a connected social account.",
+  "author": {
+    "name": "ClipAI",
+    "email": "hello@clipai.online",
+    "url": "https://clipai.online"
+  },
+  "homepage": "https://clipai.online",
+  "repository": "https://github.com/isi1314/clipai-claude-plugin",
+  "privacyPolicyUrl": "https://clipai.online/privacy",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "clips",
+    "shorts",
+    "captions",
+    "tiktok",
+    "youtube",
+    "social"
+  ]
+}
